@@ -1,0 +1,15 @@
+
+{
+    "Id":"W001",
+    "Description":
+    {
+        "Name":"史努比系列寬版條紋印花T恤",
+        "Details":"舒適棉質",
+        "Color":["Yellow","Blue","Red"],
+        "Size":["S","M","L","XL"]
+    },
+    "Price":"299",
+    "MainImage":"001.png",
+    "Images":["001","002","003"]
+
+}
